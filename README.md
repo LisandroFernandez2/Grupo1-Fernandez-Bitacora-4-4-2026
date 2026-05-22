@@ -2,4 +2,4 @@
 Hoy estuve investigando sobre los jardines inteligentes (que son, ventajas que tienen, etc). Mis fuentes son:
 https://postgradoingenieria.com/que-es-jardin-inteligente/#%C2%BFQue_es_un_jardin_inteligente
 La IA de google
-
+Ademas, estuvie analizando un jardin inteligente ya hecho por otra persona para tener una idea de que hacer (https://www.tinkercad.com/things/9aqE9MM1VCN-)
